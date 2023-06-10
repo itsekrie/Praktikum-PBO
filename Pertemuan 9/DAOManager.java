@@ -1,6 +1,8 @@
 /**
  * File 		: DAOManager.java
- * Deskripsi	: Pengelola DAO dalam program
+ * Deskripsi		: Pengelola DAO dalam program
+ * Nama Pembuat 	: Fahriant Ekrie
+ * NIM			: 24060121130071
  */
  
 public class DAOManager{
