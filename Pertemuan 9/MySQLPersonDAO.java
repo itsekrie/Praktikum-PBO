@@ -3,6 +3,8 @@ import java.sql.*;
 /**
  * File : MySQLPersonDAO.java
  * Deskripsi : Implementasi PersonDAO untuk MySQL
+ * Nama Pembuat 	: Fahriant Ekrie
+ * NIM			: 24060121130071
  */
  
  public class MySQLPersonDAO implements PersonDAO{
