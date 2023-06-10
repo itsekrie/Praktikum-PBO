@@ -1,6 +1,8 @@
 /**
  * File 		: MainDAO.java
- * Deskripsi 	: Main Program untuk akses DAO
+ * Deskripsi 		: Main Program untuk akses DAO
+ * Nama Pembuat 	: Fahriant Ekrie
+ * NIM			: 24060121130071
  */
  
  public class MainDAO{
