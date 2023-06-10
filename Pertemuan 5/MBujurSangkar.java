@@ -1,7 +1,7 @@
 /*
- * MBujurSangkar.java
- *	Pembuat	    : Fahriant Ekrie
- *	NIM         : 24060121130071
+ *  Nama File       : MBujurSangkar.java
+ *	Nama Pembuat	: Fahriant Ekrie
+ *	NIM             : 24060121130071
  */
 
 import java.util.Scanner;
