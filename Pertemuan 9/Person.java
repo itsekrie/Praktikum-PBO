@@ -1,6 +1,8 @@
 /**
  * File 		: Person.java 
  * Deskripsi 	: Person database model
+ * Nama Pembuat 	: Fahriant Ekrie
+ * NIM			: 24060121130071
  */
  
  public class Person{
